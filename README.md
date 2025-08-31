@@ -9,3 +9,13 @@ Directly run demo.m for reproduction.
 ### Citation
 Please give credits to this paper if this code is useful and helpful for your research.
 
+     @article{zhang2023structured,
+      title     = {Adaptive Multi-Order Graph Regularized NMF With Dual Sparsity for Hyperspectral Unmixing},
+      author    = {Chen, Hui and Liu, Liangyu and Xiu, Xianchao and Liu, Wanquan},
+      journal   = {IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+      year      = {2025},
+      volume    = {},
+      number    = {},
+      pages     = {1--15},
+      publisher = {IEEE}
+     }
