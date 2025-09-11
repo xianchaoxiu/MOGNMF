@@ -14,8 +14,8 @@ Please give credits to this paper if this code is useful and helpful for your re
       author    = {Chen, Hui and Liu, Liangyu and Xiu, Xianchao and Liu, Wanquan},
       journal   = {IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
       year      = {2025},
-      volume    = {},
+      volume    = {18},
       number    = {},
-      pages     = {1--15},
+      pages     = {22121-22136},
       publisher = {IEEE}
      }
