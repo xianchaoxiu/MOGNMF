@@ -1,6 +1,6 @@
 # MOGNMF
 
-The code in this toolbox implements "Adaptive Multi-Order Graph Regularized NMF with Dual Sparsity for Hyperspectral Unmixing". 
+The code in this toolbox implements "Adaptive Multi-Order Graph Regularized NMF with Dual Sparsity for Hyperspectral Unmixing" by <i>H. Chen, L. Liu, X. Xiu, W. Liu</i>.
 ![alt text](./framework.png)
 
 ### Testing
